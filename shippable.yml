@@ -2,9 +2,6 @@ language: ruby
 
 # Version number
 rvm:
-  - ruby-2.6.0-preview1
-  - ruby-head
-  - 2.2.10
   - 2.3.7
   - 2.4.4
   - 2.5.1
