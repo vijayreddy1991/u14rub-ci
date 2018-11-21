@@ -14,3 +14,4 @@ build:
     pull: true
   ci:
     - ruby -v  
+    - rvm list
