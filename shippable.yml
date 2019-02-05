@@ -16,3 +16,5 @@ build:
   ci:
     - ruby -v  
     - rvm list
+    - rvm --version
+    
